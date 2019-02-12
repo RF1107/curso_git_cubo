@@ -3,4 +3,3 @@ def fun(x):
 
 def fun3(x):
  print x+x 
- 
